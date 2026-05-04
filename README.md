@@ -1,6 +1,6 @@
 # Laravel+Svelte URL Shortener
 
-<h3 align="center"><em>"I could've come up a better name for a generic project."</em></h3>
+<h3 align="center"><em>"I could've come up with a better name for a generic project."</em></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
