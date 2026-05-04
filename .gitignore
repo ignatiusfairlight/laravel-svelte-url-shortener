@@ -1,0 +1,11 @@
+# Docker
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
