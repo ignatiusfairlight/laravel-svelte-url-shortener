@@ -41,7 +41,7 @@ AUTH
 |  POST    |  /api/v1/admin/logout                        |  logout                |
 
 
-REDIRECT URL | GET | /{slug} <-- 302
+REDIRECT URL
 |  Method  |                  Endpoint                    |             Description           |
 |----------|----------------------------------------------|-----------------------------------|
 |  GET     |  /{slug}                                     |  redirect short URL [return 302]  |
