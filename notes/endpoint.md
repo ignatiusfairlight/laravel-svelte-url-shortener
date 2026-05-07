@@ -42,7 +42,6 @@ AUTH
 
 
 REDIRECT URL | GET | /{slug} <-- 302
-|  Method  |                  Endpoint                    |       Description      |
-|----------|----------------------------------------------|------------------------|
-|  GET     |  /{slug}                                     |  redirect short URL    |
-|          |                                              |  [return 302]          |
+|  Method  |                  Endpoint                    |             Description           |
+|----------|----------------------------------------------|-----------------------------------|
+|  GET     |  /{slug}                                     |  redirect short URL [return 302]  |
