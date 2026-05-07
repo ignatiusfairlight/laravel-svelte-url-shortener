@@ -14,7 +14,7 @@ USER
 ADMIN
 |  Method  |                  Endpoint                    |            Description           |
 |----------|----------------------------------------------|----------------------------------|
-|  GET     |  /api/v1/admin                               |  view system wide analytics      |
+|  GET     |  /api/v1/admin/analytics                     |  view system wide analytics      |
 |  GET     |  /api/v1/admin/users                         |  view all users                  |
 |  GET     |  /api/v1/admin/urls                          |  view all URLs across all users  |
 |  PATCH   |  /api/v1/admin/urls/{id}                     |  modify URL details              |
